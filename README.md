@@ -95,3 +95,7 @@ use CesiumLab
 ### 2.3. parameter settting
 if you can see the object, you may modify the height and color
 ![Alt text](pics/3.png)
+
+
+### 2.4. global terrain
+![Alt text](pics/4.png)
